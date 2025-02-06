@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.casaflamingo.tests.HomePageTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-02-06T11:54:16" hostname="DESKTOP-VHPHUTC" time="1.968">
+  <properties/>
+  <testcase name="isHomeComponentPresentTest" classname="com.casaflamingo.tests.HomePageTest" time="1.968"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Feb 06, 2025 12:54:15 PM org.openqa.selenium.manager.SeleniumManager lambda$runCommand$1
+WARNING: The chromedriver version (131.0.6778.69) detected in PATH at C:\Tools\chromedriver.exe might not be compatible with the detected chrome version (132.0.6834.160); currently, chromedriver 132.0.6834.159 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+Feb 06, 2025 12:54:16 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 132, returning the closest version; found: 130; Please update to a Selenium version that supports CDP version 132
+]]></system-err>
+</testsuite>
